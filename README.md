@@ -17,7 +17,7 @@ The game prompts the user with multiple-choice questions related to computer har
 ->Answer each question by typing your response and pressing Enter.
 
 **step3**
-After all questions are answered, your score and percentage will be displayed.
+->After all questions are answered, your score and percentage will be displayed.
 
 **Requirements**
 Python 3.x
