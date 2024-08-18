@@ -7,6 +7,7 @@ The game prompts the user with multiple-choice questions related to computer har
 2. Ten questions covering various computer-related topics
 3. Scoring system to track correct answers and calculate the percentage score
 4. Feedback for each answer to help users learn and improve
+
 **How to Play?**
 **Step1**
 -> Run the script in a Python environment.
